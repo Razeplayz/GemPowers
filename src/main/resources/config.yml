@@ -1,0 +1,36 @@
+settings:
+  random-gem-on-first-join: true
+  default-tier: 1
+  starting-energy: 0
+  max-energy: 100
+  energy-per-kill: 10
+  energy-loss-on-death: 10
+  ability-radius: 5.0
+  show-actionbar: true
+  cooldown-seconds:
+    ASTRA: 25
+    FIRE: 18
+    FLUX: 22
+    LIFE: 35
+    PUFF: 16
+    SPEED: 18
+    STRENGTH: 22
+    WEALTH: 30
+  enabled-gems:
+    ASTRA: true
+    FIRE: true
+    FLUX: true
+    LIFE: true
+    PUFF: true
+    SPEED: false
+    STRENGTH: true
+    WEALTH: true
+  gem-names:
+    ASTRA: Astra Gem
+    FIRE: Fire Gem
+    FLUX: Flux Gem
+    LIFE: Life Gem
+    PUFF: Puff Gem
+    SPEED: Speed Gem
+    STRENGTH: Strength Gem
+    WEALTH: Wealth Gem
