@@ -1,0 +1,18 @@
+name: GemPowers
+version: 1.0.0
+main: com.example.gems.GemPowersPlugin
+api-version: '1.21'
+author: GemPowers
+description: Original configurable gem-powered PvP abilities.
+commands:
+  gems:
+    description: GemPowers player and admin commands.
+    usage: /gems
+    aliases: [gem]
+permissions:
+  gempowers.admin:
+    description: Manage GemPowers settings and players.
+    default: op
+  gempowers.use:
+    description: Use assigned gem abilities.
+    default: true
